@@ -14,9 +14,20 @@
 
 
 <h3>홈페이지 이미지</h3>
+<h4>메인화면</h4>
 <img src="screen/bookshop.png" alt="홈페이지 메인">
+
+<h4>도서목록 페이지</h4>
 <img src="screen/bookshop2.png" alt="홈페이지 메인">
+
+<h4>문의게시판 페이지</h4>
 <img src="screen/bookshop3.png" alt="홈페이지 메인">
+
+<h4>장바구니 화면</h4>
 <img src="screen/bookshop4.png" alt="홈페이지 메인">
+
+<h4>회원가입 화면</h4>
 <img src="screen/bookshop5.png" alt="홈페이지 메인">
+
+<h4>로그인 화면</h4>
 <img src="screen/bookshop6.png" alt="홈페이지 메인">
