@@ -14,4 +14,9 @@
 
 
 <h3>홈페이지 이미지</h3>
-<img src="screen/bookshop.png">
+<img src="screen/bookshop.png" alt="홈페이지 메인">
+<img src="screen/bookshop2.png" alt="홈페이지 메인">
+<img src="screen/bookshop3.png" alt="홈페이지 메인">
+<img src="screen/bookshop4.png" alt="홈페이지 메인">
+<img src="screen/bookshop5.png" alt="홈페이지 메인">
+<img src="screen/bookshop6.png" alt="홈페이지 메인">
