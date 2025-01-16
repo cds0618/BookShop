@@ -14,4 +14,4 @@
 
 
 <h3>홈페이지 이미지</h3>
-<img src="screen/bookshop">
+<img src="screen/bookshop.png">
